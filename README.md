@@ -45,4 +45,4 @@
 
 ## ScrollWords.java / GreetGenerator.java
 ScrollWords.javaは、GreetGenerator.javaに登録された様々な言語での「こんにちは」を示す単語をクリックするたびに表示していくプログラムです。一行の文字が40字を超えると、一文字ずつ左にずれていきます。
-![何回かクリックした後の状態](image3/Greeting.JPG "何回かクリックした後の状態")
+![何回かクリックした後の状態](image2/Greeting.JPG "何回かクリックした後の状態")
