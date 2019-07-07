@@ -1,11 +1,14 @@
 # Java_2
 今までに作成したJavaのプログラムを公開しています。
+
 ## DrawGridRev.java
 キャンバスの右下から左上にかけて格子状に直線が表示されるプログラムです。マウスをクリックするたびに線が一本ずつ増えていきます。
+
 ![何回かクリックした後の状態](image2/DrawGrid.JPG "何回かクリックした後の状態")
 
 ## ConnectPoints.java
 マウスをクリックした位置を線分でつなぐプログラムです。一番最初のクリックでは、ウィンドウ左上からの線分が描かれるようになっています。
+
 ![何回かクリックした後の状態](image2/ConnectPoints.JPG "何回かクリックした後の状態")
 
 ## InvisivleCircle.java / InvisibleColor.java
@@ -41,8 +44,10 @@
 * 得点とマウスをクリックした回数
  * 例「Your score is: 10 with 22 clicks」
 * 3つの円がどこに配置されていたか
+
 ![結果画面の例](image2/InvisibleCircle.JPG "結果画面の例")
 
 ## ScrollWords.java / GreetGenerator.java
 ScrollWords.javaは、GreetGenerator.javaに登録された様々な言語での「こんにちは」を示す単語をクリックするたびに表示していくプログラムです。一行の文字が40字を超えると、一文字ずつ左にずれていきます。
+
 ![何回かクリックした後の状態](image2/Greeting.JPG "何回かクリックした後の状態")
